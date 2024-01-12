@@ -57,6 +57,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila2 PC2:
+Denis
+Per a començar, en el terminal he fet un fork del repositori i després he clonat el repositori en el meu local amb git clone, seguidament amb git branch -b he creat la meua branca i m'he canviat a ella, i he editat el fitxer .java en Fila2PC2 perquè imprimisca un missatge, per a executar el arxiu .java he compilat amb javac i executat el programa amb java, després he fet un commit amb un missatge per a saber que s'ha fet i he fet un git push a origin per a pujar els canvis al repositori remot.
 
 
 #### AlumneFila2 PC3:
