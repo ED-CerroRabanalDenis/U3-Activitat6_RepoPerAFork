@@ -131,7 +131,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC2() {
-
+             System.out.println("Denís te desea un feliz año nuevo");
 	}
 
 	private static void AlumneFila2PC3() {
